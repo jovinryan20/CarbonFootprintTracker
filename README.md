@@ -11,25 +11,41 @@ I focused on using **SQL for data processing** and **Power BI for dashboards**, 
 ## 📂 Project Structure
 
 CarbonFootprintTracker/
+
 │── data/
+
 │ ├── raw_data.csv # Collected or mock dataset (transport, energy, etc.)
+
 │ ├── merged_data.csv # Processed dataset for analysis
+
 │
 │── sql/
+
 │ ├── schema.sql # Table creation script
+
 │ ├── merge.sql # To create merged_data
+
 │ ├── analysis_queries.sql # SQL queries for insights
+
 │
 │── powerbi/
+
 │ ├── carbon_dashboard.pbix # Power BI report file
+
 │ ├── screenshots/ # Exported PNGs of dashboard pages
+
 │
 │── docs/
+
 │ ├── project_report.pdf # Final project report
+
 │ ├── architecture.png # Project architecture diagram
+
 │
 │── .gitignore
+
 │── LICENSE
+
 │── README.md
 
 
@@ -89,14 +105,14 @@ The Power BI file (`carbon_dashboard.pbix`) has multiple pages:
 
 | Overview | City Comparison | Occupation Analysis |
 |----------|----------------|----------------------|
-| ![Overview](powerbi/screenshots/page1.png) | ![City](powerbi/screenshots/page2.png) | ![Occupation](powerbi/screenshots/page3.png) |
+| ![Overview](powerbi/screenshots/page1_overview.png) | ![City](powerbi/screenshots/page2_city.png) | ![Occupation](powerbi/screenshots/page3_occupation.png) |
 
 ---
 
 ## 📑 Report & Architecture
 
-- [Project Report (PDF)](reports/project_report.pdf)  
-- [Architecture Diagram](reports/architecture.png)  
+- [Project Report (PDF)](docs/project_report.pdf)  
+- [Architecture Diagram](docs/architecture.png)  
 
 ---
 
