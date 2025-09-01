@@ -1,0 +1,12 @@
+user_id,name,age,city,occupation,household_size,transport_date,mode,distance_km,transport_emission,electricity_kwh,renewable_pct,energy_emission,diet_type,calories,diet_emission,category,amount_spent,shopping_emission
+1,Alice,25,Bangalore,Student,3,2025-08-01,Car,15.0,3.5,12.0,20.0,8.0,Vegetarian,2000.0,2.5,Clothes,3000.0,4.5
+1,Alice,25,Bangalore,Student,3,2025-08-02,Bus,10.0,0.8,12.0,20.0,8.0,Vegetarian,2000.0,2.5,Clothes,3000.0,4.5
+2,Bob,32,Delhi,Engineer,4,2025-08-01,Flight,500.0,120.0,20.0,10.0,15.0,Non-Veg,2500.0,5.0,Electronics,15000.0,25.0
+3,Clarice,40,Mumbai,Teacher,2,2025-08-01,Bike,8.0,0.2,15.0,50.0,7.0,Vegan,1800.0,1.5,Groceries,2000.0,1.2
+4,David,29,Chennai,Designer,5,2025-08-01,Metro,20.0,1.0,18.0,30.0,10.0,Vegetarian,2200.0,2.8,Books,1200.0,0.8
+5,Evan,35,Hyderabad,Doctor,4,2025-08-01,Car,25.0,5.0,25.0,40.0,12.0,Non-Veg,2700.0,5.5,Furniture,8000.0,12.0
+6,Franklin,45,Kolkata,Manager,3,2025-08-01,Train,300.0,15.0,22.0,35.0,9.0,Vegetarian,2100.0,2.6,Appliances,10000.0,18.0
+7,Gracia,22,Pune,Intern,2,2025-08-01,Bus,12.0,0.9,10.0,15.0,5.0,Vegan,1900.0,1.8,Accessories,1500.0,1.0
+8,Henry,38,Ahmedabad,Architect,5,2025-08-01,Flight,450.0,110.0,30.0,60.0,14.0,Non-Veg,2600.0,5.2,Clothes,3500.0,5.0
+9,Isabel,27,Jaipur,Researcher,4,2025-08-01,Bike,10.0,0.3,16.0,25.0,6.0,Vegetarian,2000.0,2.4,Groceries,2500.0,1.5
+10,Jordan,31,Lucknow,Consultant,3,,,,,20.0,45.0,11.0,Vegan,1850.0,1.6,Electronics,12000.0,20.0

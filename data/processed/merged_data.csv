@@ -1,0 +1,11 @@
+user_id,name,city,occupation,transport_emission,energy_emission,diet_emission,shopping_emission,total_emission
+1,Alice,Bangalore,Student,4.300000012,16,5,9,34.30000001
+2,Bob,Delhi,Engineer,120,15,5,25,165
+3,Clarice,Mumbai,Teacher,0.200000003,7,1.5,1.200000048,9.900000051
+4,David,Chennai,Designer,1,10,2.799999952,0.800000012,14.59999996
+5,Evan,Hyderabad,Doctor,5,12,5.5,12,34.5
+6,Franklin,Kolkata,Manager,15,9,2.599999905,18,44.5999999
+7,Gracia,Pune,Intern,0.899999976,5,1.799999952,1,8.699999928
+8,Henry,Ahmedabad,Architect,110,14,5.199999809,5,134.1999998
+9,Isabel,Jaipur,Researcher,0.300000012,6,2.400000095,1.5,10.20000011
+10,Jordan,Lucknow,Consultant,,11,1.600000024,20,
