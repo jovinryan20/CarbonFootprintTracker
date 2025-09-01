@@ -11,32 +11,51 @@ I focused on using **SQL for data processing** and **Power BI for dashboards**, 
 ## 📂 Project Structure
 
 CarbonFootprintTracker/
+
 ├── data/
-│   ├── raw_data.csv
+
+│ 
+    ├── raw_data.csv
+    
 │   └── merged_data.csv
 │
+
 ├── sql/
-│   ├── schema.sql
-│   ├── merge.sql
-│   └── analysis_queries.sql
+│ 
+    ├── schema.sql
 │
-├── powerbi/
-│   ├── carbon_dashboard.pbix
-│   └── screenshots/
-│       ├── page1.png
-│       ├── page2.png
-│       └── page3.png
+     ├── merge.sql
+│ 
+     └── analysis_queries.sql
+│
+├
+  ── powerbi/
+│ 
+     ├── carbon_dashboard.pbix
+     
+│     └── screenshots/
+│ 
+        ├── page1.png
+│   
+        ├── page2.png
+│    
+        └── page3.png
 │
 ├── docs/
-│   ├── project_report.pdf
-│   └── architecture.png
+│  
+     ├── project_report.pdf
+│   
+    └── architecture.png
 │
-├── img/
-│   └── [optional images]
+
 │
-├── .gitignore
-├── LICENSE
-└── README.md
+
+├
+  ── .gitignore
+├  
+   ── LICENSE
+└ 
+  ── README.md
 
 
 ---
