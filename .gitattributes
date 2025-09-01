@@ -1,0 +1,12 @@
+# Force GitHub to recognize SQL and Python files
+*.sql linguist-language=SQL
+*.py linguist-language=Python
+
+# Treat Markdown as documentation
+*.md linguist-documentation
+
+# Ignore binary files from language stats
+*.pbix linguist-generated
+*.csv linguist-generated
+*.pdf linguist-generated
+*.png linguist-generated
